@@ -1,0 +1,22 @@
+{
+  "page": 1,
+  "pagecount": 1,
+  "limit": 20,
+  "total": 3,
+  "list": [
+    {
+      "vod_id": "v1",
+      "vod_name": "视频1",
+      "vod_pic": "",
+      "vod_play_from": "自建片单",
+      "vod_play_url": "正片$https://huawei-baidu-alibaba.henxihuan-ma.top/videos/202512/04/69318650562c7b0ac45992b1/b7d47e/index.m3u8"
+    },
+    {
+      "vod_id": "v2",
+      "vod_name": "视频2",
+      "vod_pic": "",
+      "vod_play_from": "自建片单",
+      "vod_play_url": "正片$https://huawei-baidu-alibaba.henxihuan-ma.top/videos/202512/04/6931864b562c7b0ac45992af/e0g788/index.m3u8"
+    }
+  ]
+}
