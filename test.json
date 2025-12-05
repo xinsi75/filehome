@@ -5,6 +5,8 @@
   "pagecount": 1,
   "limit": 20,
   "total": 2,
+  "parse": 0,
+  "playUrl": "",
   "class": [
     {
       "type_id": 1,
