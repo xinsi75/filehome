@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="256" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="央视频道", CCTV1
+https://huawei-baidu-alibaba.henxihuan-ma.top/videos/202512/04/6931864b562c7b0ac45992af/e0g788/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-id="228" tvg-logo="https://tb.zbds.top/logo/CCTV2.png" group-title="央视频道", CCTV2
+https://huawei-baidu-alibaba.henxihuan-ma.top/videos/202512/04/69318650562c7b0ac45992b1/b7d47e/index.m3u8
